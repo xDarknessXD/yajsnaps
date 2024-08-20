@@ -1,0 +1,8 @@
+// Go to Vite and tailwindcss website for documentation
+// use Appwrite for backend
+
+npm create vite@latest ./
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install -D tailwindcss-animate
+npm install react-router-dom
